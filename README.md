@@ -2,7 +2,7 @@
 <br>
  <div>
   <a href="https://github.com/Rodrigowebdevdesign">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodrigowebdevdesign&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?   username=Rodrigowebdevdesign&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigowebdevdesign&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
@@ -13,13 +13,9 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-<!--     <img align="center" alt="vuejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"> -->
-  
-  
-<!--      <img align="center" alt="laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> -->
+
  <br>
 
-  
   ### Siga-me também em meu linkedin! 😎🤩
  
 <div> 
